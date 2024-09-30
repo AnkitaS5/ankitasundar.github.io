@@ -1,2 +1,1 @@
-### Hello! I am a sophomore studying Electrical Engineering & Computer Science at UC Berkeley. I am also pursuing a certificate in Entrepreneurship & Technology. Last summer, I interned as a software engineer at Taltrics, a startup that is focused on AI-driven resourcement management tools. I am interested in learning more about the world of software and AI.
-
+### Hello! I'm a sophomore at UC Berkeley studying Electrical Engineering & Computer Science and pursuing a certificate in Entrepreneurship & Technology. I'm passionate about exploring the real-world applications of AI and machine learning, and I’m excited to delve deeper into the world of software development.
